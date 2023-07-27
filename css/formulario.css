@@ -1,0 +1,24 @@
+form{
+    width: 300px;
+    background:#fffffd;
+    padding: 50px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius:6px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#1c140d;
+    box-shadow: 8px 16px 32px  #8870ff;
+}
+
+
+
+input{
+width: 250px;
+background: azure;
+padding: 10px;
+border-radius: 6px;
+margin-bottom: 15px;
+border: 0 solid #0a4575;
+font-family: cursive;
+font-size: 15px;
+}

@@ -20,7 +20,7 @@
     <div>
         <h1>clientes</h1>
                
-        <button class="button-41" role="button">Crear Cliente</button>
+        <button class="button-41" role="button" ><a href="insertarCliente.php">Crear Cliente</a></button>
 
         <?php
         require_once("../ajax/cliente.php");
